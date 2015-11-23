@@ -1,4 +1,4 @@
-﻿/// <binding ProjectOpened='restore' />
+﻿/// <binding BeforeBuild='default' ProjectOpened='restore' />
 var gulp = require("gulp"),
     bower = require("gulp-bower");
 
