@@ -1,6 +1,8 @@
 # Samples for Logster.io
 
-Samples for [Logster.io](http://logster.io/), a quick, easy, and cost effective solution to access your logs from anywhere in real-time.
+Samples for [Logster.io](http://logster.io/), a quick, easy, and cost effective solution to access your logs from anywhere in real-time. 
+
+See our [documentation](https://portal.logster.io/Docs) for more information on integrating Logster.io into your application.
 
 ## Logster.Samples.Console (log4net)
 
