@@ -34,27 +34,27 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="log4net, Version=1.2.14.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
-      <HintPath>packages\log4net.2.0.4\lib\net45-full\log4net.dll</HintPath>
+      <HintPath>..\packages\log4net.2.0.4\lib\net45-full\log4net.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Log4Net.Async, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Log4Net.Async.2.0.0.0\lib\net40\Log4Net.Async.dll</HintPath>
+      <HintPath>..\packages\Log4Net.Async.2.0.0.0\lib\net40\Log4Net.Async.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Logster.Client, Version=1.0.200.16, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Logster.Client.1.0.200.16\lib\net40-Client\Logster.Client.dll</HintPath>
+      <HintPath>..\packages\Logster.Client.1.0.200.16\lib\net40-Client\Logster.Client.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Logster.Client.log4net, Version=1.0.200.16, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Logster.log4net.1.0.200.16\lib\net40-Client\Logster.Client.log4net.dll</HintPath>
+      <HintPath>..\packages\Logster.log4net.1.0.200.16\lib\net40-Client\Logster.Client.log4net.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Logster.Core, Version=1.0.200.16, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Logster.Client.1.0.200.16\lib\net40-Client\Logster.Core.dll</HintPath>
+      <HintPath>..\packages\Logster.Client.1.0.200.16\lib\net40-Client\Logster.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
